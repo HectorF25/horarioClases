@@ -27,19 +27,19 @@ table {
 .Ingles {
     justify-content: center;
     text-align: center;
-    background-color: rgba(117, 55, 99, 0.856);
+    background-color: rgb(117, 55, 99);
 }
 
 .Ingles-Dir {
     justify-content: center;
     text-align: center;
-    background-color: yellow;
+    background-color: rgb(255, 255, 0);
 }
 
 .Ambiental {
     justify-content: center;
     text-align: center;
-    background-color: rgba(223, 205, 167, 0.829);
+    background-color: rgb(223, 205, 167);
 }
 
 .Cultura {
@@ -51,25 +51,25 @@ table {
 .Proyecto {
     justify-content: center;
     text-align: center;
-    background-color: rgba(112, 164, 243, 0.904);
+    background-color: rgb(112, 164, 243);
 }
 
 .PHP {
     justify-content: center;
     text-align: center;
-    background-color: rgba(245, 179, 118, 0.904);
+    background-color: rgb(245, 179, 118);
 }
 
 .BasesDatos {
     justify-content: center;
     text-align: center;
-    background-color: rgba(93, 165, 93, 0.904);
+    background-color: rgb(93, 165, 93);
 }
 
 .JSP {
     justify-content: center;
     text-align: center;
-    background-color: rgba(230, 159, 6, 0.904);
+    background-color: rgb(230, 159, 6);
 }
 
 td {
