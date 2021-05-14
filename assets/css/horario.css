@@ -1,0 +1,83 @@
+h1 {
+    font-size: 55px;
+    text-align: center;
+    justify-content: center;
+}
+
+hr {
+    color: gray;
+}
+
+.dias {
+    height: 80px;
+}
+
+.FrontEnd {
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(190, 184, 184);
+}
+
+.Ingles {
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(117, 55, 99, 0.856);
+}
+
+.Ingles-Dir {
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+}
+
+.Ambiental {
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(223, 205, 167, 0.829);
+}
+
+.Cultura {
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(190, 115, 190);
+}
+
+.Proyecto {
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(112, 164, 243, 0.904);
+}
+
+.PHP {
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(245, 179, 118, 0.904);
+}
+
+.BasesDatos {
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(93, 165, 93, 0.904);
+}
+
+.JSP {
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(230, 159, 6, 0.904);
+}
+
+td {
+    cursor: pointer;
+    transition: 1.5s ease;
+    -moz-transition: 1.5s ease;
+    -webkit-transition: 1.5s ease;
+    -o-transition: 1.5s ease;
+}
+
+td:hover {
+    transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+}
